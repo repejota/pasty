@@ -45,7 +45,7 @@ lint:
 # Dependencies
 
 deps:
-	go get -u "github.com/getlantern/systray"
+	go get -u github.com/getlantern/systray
 
 dev-deps:
 	go get -u github.com/alecthomas/gometalinter
